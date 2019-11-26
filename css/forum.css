@@ -14,9 +14,9 @@ html,body{
 	background-color: #1F1F1F;
 	text-align: center;
 	line-height: 120px;
-	position: fixed;
-	top: 0;
-	left: 0;
+	/*position: fixed;*/
+	/*top: 0;*/
+	/*left: 0;*/
 	color: hsla(0,0%,89%,1.00);
 }
 
